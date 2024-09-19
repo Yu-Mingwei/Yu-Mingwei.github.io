@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## 这是一条测试
+- 学士
+- 硕士
+- 博士
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
