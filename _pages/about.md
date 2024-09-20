@@ -14,7 +14,7 @@ redirect_from:
 
 ## 个人简历
 
-![image](https://github.com/user-attachments/assets/1dcfd6f5-ff8c-443a-ba44-d5df1c4dc319)
+![image](https://github.com/user-attachments/assets/83babec0-b869-4158-a668-a484ac7ea844)
 
 <br>
 
@@ -25,7 +25,8 @@ redirect_from:
    - 南京工业大学 党委宣传部融媒体中心 运营部部长（2021）
    - 南京工业大学 学生会科创学习部 部长（2021）
 
-![image](https://github.com/user-attachments/assets/10d2293b-c90e-4acd-bb76-0e2c305bc198)
+![image](https://github.com/user-attachments/assets/ae4503f1-5dbf-4b9f-b64c-3ab230d2221b)
+
 
 ## 苏格拉底学园
  
