@@ -1,18 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "Yu-Mingwei"
 layout: single
-header:
-  overlay_image: Socrate_congeda_la_propria_famiglia.jpeg
-  overlay_filter: rgba(102, 51, 153, 0.75) # same as adding an opacity of 0.5 to a black background
-
-excerpt: "南京大学 新闻与传播专业硕士 数字营销方向 "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+南京大学 新闻与传播硕士（数字营销方向）
 
 **治学自述**：我唯一知道的就是我一无所知 [链接🔗](https://chengjun.github.io/zh/posts/2024/04/my-story/)
 
