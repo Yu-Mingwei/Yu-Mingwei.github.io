@@ -11,12 +11,9 @@ redirect_from:
 
 **个人理念**：吃饱睡好
 
-
 ## 个人简历
 
-![image](https://github.com/user-attachments/assets/83babec0-b869-4158-a668-a484ac7ea844)
-
-<br>
+![image](https://github.com/user-attachments/assets/ae4503f1-5dbf-4b9f-b64c-3ab230d2221b)
 
 - 实践经历：
    - 福州广播电视台 全媒体记者（2024）
@@ -24,8 +21,6 @@ redirect_from:
 - 校园经历：
    - 南京工业大学 党委宣传部融媒体中心 运营部部长（2021）
    - 南京工业大学 学生会科创学习部 部长（2021）
-
-![image](https://github.com/user-attachments/assets/ae4503f1-5dbf-4b9f-b64c-3ab230d2221b)
 
 
 ## 苏格拉底学园
