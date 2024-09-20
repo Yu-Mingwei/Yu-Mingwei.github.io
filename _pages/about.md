@@ -13,9 +13,6 @@ redirect_from:
   - /about.html
 ---
 
-<!--<img src="https://user-images.githubusercontent.com/543384/196112048-b50d92cb-2c4c-4999-b851-ef9d0805a141.png" align = "middle" width = "500px">-->
-
-<img src="https://chengjun.github.io/img/tt.gif" align = "middle" width = "800px">
 
 **治学自述**：我唯一知道的就是我一无所知 [链接🔗](https://chengjun.github.io/zh/posts/2024/04/my-story/)
 
@@ -54,12 +51,3 @@ redirect_from:
 <br>
   
 ![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
-  
-✏️ [Edit this page](https://github.com/{{site.repository}}edit/gh-pages/_pages/about.md)
-
-<br>
-
-<html xmlns:wb="//open.weibo.com/wb">
-<script src="//tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8" height="1200" ></script>
-
-<wb:show uid="5694690999" width="850" verifier="6f31e019"></wb:show>
