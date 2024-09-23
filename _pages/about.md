@@ -3,7 +3,7 @@ permalink: /
 title: ""
 layout: single
 header:
-  overlay_image: IMG_1402.JPG
+  overlay_image: WechatIMG52.JPG
   overlay_filter: rgba(102, 51, 153, 0.75) # same as adding an opacity of 0.5 to a black background
   
 excerpt: "余名伟 南京大学 新闻与传播硕士（数字营销方向）
@@ -28,8 +28,6 @@ redirect_from:
    - 南京工业大学 学生会科创学习部 部长（2021）
 
 ## 个人相册
- 
-![image](https://github.com/user-attachments/assets/d0399ac1-9747-4c5f-9205-e6b07c248c15)
 
 ![image](https://github.com/user-attachments/assets/8d34a43a-bbe6-4abe-8de2-dccd85e6c50a)
 
