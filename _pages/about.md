@@ -3,8 +3,8 @@ permalink: /
 title: ""
 layout: single
 header:
-  overlay_image: WechatIMG52.JPG
-  overlay_filter: rgba(102, 51, 153, 0.75) # same as adding an opacity of 0.5 to a black background
+  overlay_image: ![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
+  overlay_filter: rgba(102, 51, 153, 0) # same as adding an opacity of 0.5 to a black background
   
 excerpt: "余名伟 南京大学 新闻与传播硕士（数字营销方向）
 "
