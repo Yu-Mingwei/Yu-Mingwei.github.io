@@ -7,6 +7,7 @@
 # server process.
 
 # Site Settings
+
 locale                   : "en-US"
 title                    : "余名伟"
 title_separator          : "-"
