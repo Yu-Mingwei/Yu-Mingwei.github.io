@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "简历"
+title: "余名伟"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+![image](https://github.com/user-attachments/assets/69f08b99-f955-4d55-ad7b-66fcece3a194)
+
 
 教育经历
 ======
