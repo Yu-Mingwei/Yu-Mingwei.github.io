@@ -6,7 +6,7 @@ header:
   overlay_image: 192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png
   overlay_filter: rgba(102, 51, 153, 0.75) # same as adding an opacity of 0.5 to a black background
   
-excerpt: ""
+excerpt: "南京大学 新闻与传播学院 新闻与传播专硕（数字营销方向）"
 
 author_profile: true
 redirect_from: 
