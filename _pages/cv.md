@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "个人简历"
+title: "简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -52,3 +52,7 @@ redirect_from:
 * 有一年以上专业媒体从业经验，通过新闻记者职业资格考试；
 * 精通摄影技术，熟练使用Photoshop、Premiere等设计软件，熟悉视频剪辑及海报设计；
 * 通过全国计算机等级二级（MS Office），熟练使用PowerPoint，Excel，Word等办公软件。
+
+
+![image](https://github.com/user-attachments/assets/9a7b5418-7616-4547-b95c-baa56e9fea27)
+
