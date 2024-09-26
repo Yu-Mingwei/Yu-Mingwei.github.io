@@ -3,7 +3,6 @@
     border:1px solid #d3d3d3;
 }
 .container div {
-    display: block;
     width:100%;
 }
 .container .header {
@@ -13,6 +12,6 @@
     font-weight: bold;
 }
 .container .content {
-    display: none;
+    display: block;
     padding : 5px;
 }
