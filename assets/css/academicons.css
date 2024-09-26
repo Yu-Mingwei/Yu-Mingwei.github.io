@@ -570,3 +570,9 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
