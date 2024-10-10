@@ -15,9 +15,8 @@ redirect_from:
 ---
 
 
-**个人理念**："生命如同一幅抽象画，无需刻意描绘细节，只需用心感受色彩与线条交织的无限魅力。"
+**个人理念**："Life is like an abstract painting, there is no need to deliberately depict details, just feel the infinite charm of color and line interweaving with your heart"
 
-**个人介绍**：我是未来的预备役，用抽象的自我介绍，勾勒出一个不断探索、不断成长的研究者形象。在这里，我以最简练的语言，传递最丰富的内涵，期待与你共同探索这个充满变数的世界。
 
 ## 个人简历
 
