@@ -14,18 +14,7 @@ redirect_from:
   - /about.html
 ---
 
-
 **个人理念**："Life is like an abstract painting, there is no need to deliberately depict details, just feel the infinite charm of color and line interweaving with your heart"
-
-
-## 个人简历
-
-- 实践经历：
-   - 福州广播电视台 全媒体记者（2024）
-   - 北京微梦创科网络有限公司 微博校园运营（2021）
-- 校园经历：
-   - 南京工业大学 党委宣传部融媒体中心 运营部部长（2021）
-   - 南京工业大学 学生会科创学习部 部长（2021）
 
 ## 个人相册
 
