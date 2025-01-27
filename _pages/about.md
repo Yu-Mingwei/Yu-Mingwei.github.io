@@ -14,9 +14,28 @@ redirect_from:
   - /about.html
 ---
 
-**个人理念**："Life is like an abstract painting, there is no need to deliberately depict details, just feel the infinite charm of color and line interweaving with your heart"
+**Personal philosophy**："Life is like an abstract painting, there is no need to deliberately depict details, just feel the infinite charm of color and line interweaving with your heart"
 
-## 个人相册
+## EDUCATION
+Nanjing University丨Master of Arts in Journalism and Communication丨Sep.2024-Jun.2027
+Admission Ranking: 2/19
+Research Focus: Digital Marketing Communication
+
+Nanjing Tech University丨Bachelor of Laws in Social Work丨Sep.2018-Jun. 2022
+Honors and Awards: Title of "Outstanding Individual in New Media", Nanjing Tech University Excellent Student Leader, Award for Outstanding New Media Work
+
+## PROJECT EXPERIENCE
+Investigation and Analysis of Existing Issues in University New Media Nanjing ,China丨Team Leader丨Sep.2018-Jun.2020
+* Role and Responsibilities: Managed task assignments for a university innovation and entrepreneurship project, organized literature, and authored the "Innovative Ideas" section of the project report. Represented the team during the project defense.  Project Overview: Conducted market research on the existing issues of official new media matrices at various universities in Nanjing, analyzing the target audience and designing surveys tailored to the unique aspects of university new media.
+* Project Outcomes: Collected 191 questionnaires through field visits and online distribution, created demographic profiles based on responses, and utilized SPSS for data analysis, leading to provincial-level project approval.
+
+## SKILL
+* Passed CET-4 and CET-6, demonstrating excellent listening, speaking, reading, and writing abilities in English; capable of conducting daily conversations in English.
+* Over one year of professional media experience and passed the National Journalist Qualification Examination.
+* Proficient in photography techniques and skilled in design software such as Photoshop and Premiere; familiar withvideo editing and poster design.
+* Certified with the National Computer Rank Examination Level 2 (MS Office) and proficient in PowerPoint, Excel, and Word.
+
+## MY ALBUM
 
 ![image](https://github.com/user-attachments/assets/8d34a43a-bbe6-4abe-8de2-dccd85e6c50a)
 
