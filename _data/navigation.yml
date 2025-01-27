@@ -17,8 +17,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: ""
-  #   url: /year-archive/
+   - title: "书评"
+     url: /year-archive/
     
   - title: "简历"
     url: /cv/
