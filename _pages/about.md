@@ -26,7 +26,8 @@ Honors and Awards: Title of "Outstanding Individual in New Media", Nanjing Tech 
 
 ## PROJECT EXPERIENCE
 Investigation and Analysis of Existing Issues in University New Media Nanjing ,China丨Team Leader丨Sep.2018-Jun.2020
-* Role and Responsibilities: Managed task assignments for a university innovation and entrepreneurship project, organized literature, and authored the "Innovative Ideas" section of the project report. Represented the team during the project defense.  Project Overview: Conducted market research on the existing issues of official new media matrices at various universities in Nanjing, analyzing the target audience and designing surveys tailored to the unique aspects of university new media.
+* Role and Responsibilities: Managed task assignments for a university innovation and entrepreneurship project, organized literature, and authored the "Innovative Ideas" section of the project report. Represented the team during the project defense.
+* Project Overview: Conducted market research on the existing issues of official new media matrices at various universities in Nanjing,analyzing the target audience and designing surveys tailored to the unique aspects of university new media.
 * Project Outcomes: Collected 191 questionnaires through field visits and online distribution, created demographic profiles based on responses, and utilized SPSS for data analysis, leading to provincial-level project approval.
 
 ## SKILL
