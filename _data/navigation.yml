@@ -23,5 +23,5 @@ main:
   - title: "简历"
     url: /cv/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "书评"
+   url: /markdown/
