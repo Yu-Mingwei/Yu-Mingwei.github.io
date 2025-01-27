@@ -16,12 +16,12 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-   - title: "书评"
-     url: /year-archive/
-    
+
   - title: "简历"
     url: /cv/
     
+  - title: "作品集"
+    url: /year-archive/
+    
   - title: "书评"
-   url: /markdown/
+    url: /markdown/
